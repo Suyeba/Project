@@ -1,4 +1,4 @@
-sklearn 
+
 joblib
 pickle
-scikitlearn
+scikit-learn
