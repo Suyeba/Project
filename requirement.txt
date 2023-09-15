@@ -1,3 +1,4 @@
-sklearn == '1.0.2'
+sklearn 
 joblib
 pickle
+scikitlearn
