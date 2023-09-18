@@ -65,7 +65,7 @@ def predict_major_incident(day_of_week, location, attack_type, perpetrator, vict
                        'Group V', 'Group W', 'Group X', 'Group Y', 'Group Z'],
         'motive': ['Religious', 'Ethnic', 'Retaliation Motive', 'Political', 'Unknown'],
         'operational_success': ['Yes', 'No'],
-        'financial_support': ['International', 'Local', 'Unknown']
+        'financial_support': ['International', 'Local', 'Unknown'],
         'country': ['turkey', 'kenya', 'peru', 'japan', 'france', 'usa', 'brazil', 'spain',
                     'south africa', 'thailand', 'mexico', 'egypt', 'germany', 'australia', 'india',
                     'uk', 'indonesia', 'argentina', 'south korea', 'russia', 'canada', 'italy',
